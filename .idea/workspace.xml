@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a89a074-4980-40a7-82c3-2e0d1160ae83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ThesisCodes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chb01_01.edf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hudai.py" afterDir="false" />
-    </list>
+    <list default="true" id="1a89a074-4980-40a7-82c3-2e0d1160ae83" name="Changes" comment="Visualization code added for mne and matplotlib both" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,14 +66,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733397548311</updated>
-      <workItem from="1733397549318" duration="1809000" />
+      <workItem from="1733397549318" duration="2449000" />
     </task>
+    <task id="LOCAL-00001" summary="Visualization code added for mne and matplotlib both">
+      <option name="closed" value="true" />
+      <created>1733399960696</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733399960696</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Visualization code added for mne and matplotlib both" />
+    <option name="LAST_COMMIT_MESSAGE" value="Visualization code added for mne and matplotlib both" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ThesisCodes$hudai.coverage" NAME="hudai Coverage Results" MODIFIED="1733399342857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ThesisCodes$hudai.coverage" NAME="hudai Coverage Results" MODIFIED="1733399577396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
